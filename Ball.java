@@ -1,3 +1,7 @@
+/**
+	 * Ball.
+	 * Ball by Abijot Gupta, email - abijot1701959@gmail.com.
+	 */
 package com.abi;
 
 import java.awt.Color;
