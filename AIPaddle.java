@@ -1,3 +1,6 @@
+/**
+	 * AIPaddle.
+	 */
 package com.abi;
 
 import java.awt.Color;
