@@ -1,5 +1,5 @@
 /**
-	 * AIPaddle.
+	 * AIPaddle by Abijot Gupta, email - abijot1701959@gmail.com.
 	 */
 package com.abi;
 
